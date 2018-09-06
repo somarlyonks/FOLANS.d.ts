@@ -1,0 +1,16 @@
+{
+  "name": "folans.d.ts",
+  "version": "1.0.0",
+  "description": "Simplified ts type declarations.",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somarlyonks/FOLANS.d.ts.git"
+  },
+  "keywords": [
+    "types",
+    "typescript"
+  ],
+  "author": "Sy",
+  "license": "MIT"
+}
