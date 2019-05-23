@@ -1,4 +1,4 @@
-declare type F<R=A> = (...args: any[]) => R
+declare type F<R=A> = (...args: L<A>) => R
 
 declare type F0<R=A> = () => R
 
