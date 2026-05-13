@@ -22,3 +22,11 @@ declare type N = number
 
 
 declare type S = string
+
+declare const __brand: unique symbol
+/**
+ * ```ts
+ * type UserID = B<string, 'userId'>
+ * ```
+ */
+declare type B<T, Brand> = T & {[__brand]: Brand}

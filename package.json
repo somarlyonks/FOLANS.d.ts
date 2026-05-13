@@ -1,6 +1,6 @@
 {
   "name": "folans.d.ts",
-  "version": "2.0.0",
+  "version": "2.0.1-0",
   "description": "Simplified ts type declarations.",
   "types": "index.d.ts",
   "repository": {
